@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fenharel1
 - 👀 I’m always interested in learn new technologies about everything but specially about data science, cibersecurity and web development.
-- 🌱 I’m currently learning python, javascript as my main languages for web development and data science, also I'm learning C++ for competitive programming.
-- 💞️ I’m looking to collaborate on projects where I can learn more and help other persons.
+- 🌱 I’m currently learning javascript, typescript, c# and python for web development. Also some c++ for competitive programming
+- 💞️ I’m looking to collaborate on projects where I can learn more on topics like software development and help other persons.
 - 📫 How to reach me? This is my personal email -> reyqsp@gmail.com
 
 <!---
